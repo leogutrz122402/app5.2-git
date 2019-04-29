@@ -11,14 +11,14 @@ version = "1.0.0">
 Aplicacion que realiza la vibracion y el beep del Dispositivo 
 </description>
 
-<author href="https://build.phonegap.com" email="santiagoxmtz@hotmail.com">
-Santiago Xicotencatl Martinez
+<author href="https://build.phonegap.com" email="leogutrz@gmail.com">
+Leonardo Teoba Gutierrez
 </author>
 
 <!--Personaliza la aplicacion y plataforma -->
 <!--preference name="orientation"	value="default"/-->
 <preference name="orientation"	value="portrait" />
-<preference name="orientation"	value="landscape"/> 
+<!--<preference name="orientation"	value="landscape"/>--> 
 <preference name="target-device"	value="universal"/>
 <preference name="fullscreen"	value="true"/>
 <preference name="android-installLocation"	value="auto"/>
